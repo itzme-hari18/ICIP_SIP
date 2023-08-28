@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Poppins:wght@200;300;400&display=swap');
+body {
+    background: linear-gradient(to bottom, #00aaff, #0077ff);
+    font-family: 'Roboto', sans-serif; /* Apply the new font */
+}
+.card {
+    border-radius: 20px;
+    font-family: 'Roboto', sans-serif; /* Apply the new font */
+}
